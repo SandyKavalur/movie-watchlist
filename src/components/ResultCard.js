@@ -1,5 +1,4 @@
 import React, { useContext } from "react";
-import Moment from "moment";
 import { GlobalContext } from "../context/GlobalState";
 
 export const ResultCard = ({ movie }) => {
